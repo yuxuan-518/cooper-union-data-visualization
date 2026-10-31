@@ -42,3 +42,11 @@ These exports use the saved values in the corresponding Excel worksheets. See [d
 ## Integrity record
 
 [original-files.json](original-files.json) records original filenames, repository paths, sizes, and SHA-256 hashes for the unchanged coursework files.
+
+## PDF and explanation editions
+
+- [Final presentation PDF reading edition](../final-project/employment-analysis/final-presentation.pdf): 22 pages. Original wording and page order, with reflowed text and selected chart overviews.
+- [English project and learning PDF](Project_and_Learning_English.pdf): three pages.
+- [中文项目讲解与学习收获 PDF](Project_and_Learning_Chinese.pdf): three pages.
+- [Project walkthrough](../final-project/employment-analysis/PROJECT_EXPLAINED.md) · [中文项目讲解](../final-project/employment-analysis/PROJECT_EXPLAINED.zh-CN.md).
+- [Course learning reflection](LEARNING.md) · [中文学习收获](LEARNING.zh-CN.md).

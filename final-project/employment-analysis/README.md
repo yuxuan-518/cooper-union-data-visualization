@@ -12,6 +12,14 @@ This final project compares employment-to-population ratios across age groups, e
 | Readable transcription of the rehearsal document | [speaker-notes.md](speaker-notes.md) |
 | Seven CSV exports | [data/](data/) |
 
+## Read the project
+
+[Full project explanation](PROJECT_EXPLAINED.md) · [完整中文讲解](PROJECT_EXPLAINED.zh-CN.md)
+
+[Presentation PDF reading edition](final-presentation.pdf) · [English project and learning PDF](../../docs/Project_and_Learning_English.pdf) · [中文项目与学习收获 PDF](../../docs/Project_and_Learning_Chinese.pdf)
+
+The presentation PDF uses the original wording and slide order, with reflowed text and selected chart overviews. Use the PPTX for the original layout and animation builds.
+
 ## What the work does
 
 The age charts compare four groups: 16–24, 25–54, 55–64, and 65+. Education charts compare five categories and calculate the difference between advanced-degree and bachelor’s-degree groups. Gender tables support comparisons by age, education, and race/ethnicity. The presentation uses selected periods to discuss changes and possible historical context.

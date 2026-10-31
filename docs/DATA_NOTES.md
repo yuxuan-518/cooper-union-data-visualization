@@ -2,7 +2,7 @@
 
 ## Original coursework and repository preparation
 
-The Excel, PowerPoint, and Word files are unchanged copies of the saved coursework. Repository preparation added descriptive filenames, folders, navigation, CSV exports, a speaking-note transcription, and two preview images rendered from the existing final presentation. No new statistical model or corrected version of the original analysis is implied.
+The Excel, PowerPoint, and Word files are unchanged copies of the saved coursework. Repository preparation added descriptive filenames, folders, navigation, CSV exports, a speaking-note transcription, and two preview images rendered from the existing final presentation. No new statistical model or corrected version of the original analysis is implied. The added presentation PDF is a reading edition with reflowed original text and selected chart overviews; the original PPTX retains all layouts and animation builds. The English and Chinese project-and-learning PDFs provide a separate explanation of the work and course practice.
 
 CSV exports use saved Excel values. Formula results come from the workbook’s cached values; the files were not recalculated or resaved. The Excel originals remain the reference for formulas, charts, formatting, and supplementary calculations.
 
