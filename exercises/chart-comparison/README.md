@@ -1,13 +1,19 @@
-# Settlement Time Chart Comparison
+# One Dataset, Two Chart Views
 
-This workbook compares chart choices for a process with four components: notifying the insurance company, submitting documents or completing inspection, policy review, and idle waiting time. The worksheet identifies the exercise as **“chart battle: stacked areas vs. stacked bars.”**
+**English** | [简体中文](README.zh-CN.md) · [All projects](../../README.md)
 
-- [Original workbook](settlement-time.xlsx)
-- [Nine data rows as CSV](data/settlement-times.csv)
+This exercise displays the **same insurance-settlement data** as a stacked area chart and a stacked bar chart, so viewers can compare what each format makes easier to see.
 
-Eight rows are marked as actuals for 2015–2022; the 2023 row is supplied as a forecast. Every total equals the sum of its four components. The saved workbook does not contain a forecasting formula or specify the time unit, so this is presented as a visualization exercise using a supplied forecast, rather than a fitted forecasting model.
+## What the charts show
 
-## 中文简介
+![Stacked area and stacked bar views of settlement stages](images/two-chart-views.png)
 
-原附件名为“预测数据.xlsx”，实际内容是理赔流程用时的图表比较：把总用时拆成通知、材料提交或检查、审核、等待四部分，用不同图表呈现。数据包括 2015—2022 年实际值和练习提供的 2023 年预测值。原文件没有预测模型公式，也未标明时间单位，因此按图表练习整理。
+Both charts split total settlement time into notifying the insurer, submitting documents or completing inspection, policy review, and idle waiting. The area chart emphasizes the overall change across years. The bars make it easier to compare the size of each stage within a particular year.
 
+The recorded total falls from **50 in 2015 to 23 in 2020**, then rises to **27 in 2022**. Waiting is the largest component in every row. The **hatched 2023 section is a supplied forecast**, not an observed result. The worksheet does not state a time unit, so none has been assumed here.
+
+## Technical work and learning
+
+The workbook practices stacked area and stacked bar charts with a shared set of component series. Each total reconciles to the sum of its four stages. Comparing the two displays develops chart selection and part-to-whole interpretation, while separating actual values from forecasts. The page redraws the nine saved rows; the source workbook does not contain a forecasting formula.
+
+[Original Excel workbook](settlement-time.xlsx) · [Nine data rows (CSV)](data/settlement-times.csv) · [Data notes](../../docs/DATA_NOTES.md)

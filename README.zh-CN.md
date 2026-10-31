@@ -4,14 +4,6 @@
 
 这个仓库整理了我在 **2024 年 Cooper Union STEM Saturdays 项目 Inventor’s Lab: Data Visualization** 中完成的数据可视化材料，包括一个美国就业数据期末项目，以及四个课堂练习。
 
-## PDF 阅读版
-
-[项目讲解与学习收获 — 中文 PDF](docs/Project_and_Learning_Chinese.pdf) · [English PDF](docs/Project_and_Learning_English.pdf)
-
-[期末演示文稿 — PDF 阅读版](final-project/employment-analysis/final-presentation.pdf) · [原始 PowerPoint](final-project/employment-analysis/final-presentation.pptx)
-
-演示 PDF 保留原文和页序，重新排版文字并配合部分图表总览；原 PPT 保留原始布局和动画构件。
-
 ## 期末项目：美国就业数据中的群体差异
 
 这个项目把标注为 **1979—2022 年的 44 行年度就业数据**整理成一组可比较的图表，让听众看到不同年龄、教育背景和性别的就业情况如何随时间变化。最终成果是包含 **7 个工作表的 Excel 文件、22 页演示文稿和中英双语讲稿**。听众可以先看总体趋势，再通过局部放大和差值图理解群体差距，不必逐行阅读原始表格。
@@ -20,7 +12,7 @@
 
 原演示文稿署名为 **Shaoxuan Xiong（制作）** 和 **Richard Feng（编辑）**。讲稿保留了两位讲者的分工标记、排练提示和词汇注释。
 
-[查看期末项目](final-project/employment-analysis) · [下载演示文稿](final-project/employment-analysis/final-presentation.pptx) · [查看 Excel 工作簿](final-project/employment-analysis/employment-analysis.xlsx) · [直接阅读双语讲稿](final-project/employment-analysis/speaker-notes.md)
+[查看图表与项目说明](final-project/employment-analysis/README.zh-CN.md) · [下载演示文稿](final-project/employment-analysis/final-presentation.pptx) · [查看 Excel 工作簿](final-project/employment-analysis/employment-analysis.xlsx) · [直接阅读双语讲稿](final-project/employment-analysis/speaker-notes.md)
 
 ![原期末演示文稿第 12 页中的不同教育背景就业比例比较](assets/employment-preview.png)
 
@@ -42,10 +34,10 @@
 
 | 练习 | 主要内容 | 查看材料 |
 |---|---|---|
-| Titanic 数据分析 | 乘客概况、年龄和票价分布、性别计数，以及幸存者的舱位构成。 | [工作簿与数据](exercises/titanic) |
-| 硬币质量分析 | 硬币测量数据、描述统计、频数统计和正态分布密度计算。 | [工作簿与数据](exercises/penny-mass) |
-| 图表比较 | 用两种图表展示理赔总用时及各阶段用时，包含练习提供的预测行。 | [工作簿与数据](exercises/chart-comparison) |
-| 节目选择建议 | 用 5 页演示文稿比较节目受欢迎程度、观众群体和制作成本。 | [演示文稿](exercises/program-selection) |
+| Titanic 数据分析 | 乘客概况、年龄和票价分布、性别计数，以及幸存者的舱位构成。 | [图表与说明](exercises/titanic/README.zh-CN.md) |
+| 硬币质量分析 | 硬币测量数据、描述统计、频数统计和正态分布密度计算。 | [图表与说明](exercises/penny-mass/README.zh-CN.md) |
+| 图表比较 | 用两种图表展示理赔总用时及各阶段用时，包含练习提供的预测行。 | [图表与说明](exercises/chart-comparison/README.zh-CN.md) |
+| 节目选择建议 | 用 5 页演示文稿比较节目受欢迎程度、观众群体和制作成本。 | [图表与说明](exercises/program-selection/README.zh-CN.md) |
 
 ## 文件使用
 

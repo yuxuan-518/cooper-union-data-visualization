@@ -1,48 +1,31 @@
 # U.S. Employment Patterns
 
-This final project compares employment-to-population ratios across age groups, education levels, and gender using annual rows labelled 1979–2022. It combines a saved Excel analysis, a 22-slide presentation, and Chinese/English speaking notes.
+**English** | [简体中文](README.zh-CN.md) · [All projects](../../README.md)
 
-**Credits on the original presentation:** producer Shaoxuan Xiong; editor Richard Feng.
+This final project turns **44 annual rows labelled 1979–2022** into visual comparisons of age, education, and gender. The measure is the **share of people in each group who are employed**. The completed work includes a seven-worksheet Excel analysis, a 22-slide presentation, and bilingual speaking notes.
 
-| Material | File |
-|---|---|
-| Original workbook, seven worksheets | [employment-analysis.xlsx](employment-analysis.xlsx) |
-| Original presentation, 22 slides | [final-presentation.pptx](final-presentation.pptx) |
-| Original bilingual rehearsal document | [speaker-notes.docx](speaker-notes.docx) |
-| Readable transcription of the rehearsal document | [speaker-notes.md](speaker-notes.md) |
-| Seven CSV exports | [data/](data/) |
+## What the project shows
 
-## Read the project
+![Employment-to-population ratios for four age groups](images/age-trends.png)
 
-[Full project explanation](PROJECT_EXPLAINED.md) · [完整中文讲解](PROJECT_EXPLAINED.zh-CN.md)
+The four age-group lines make their different employment levels visible in one view. The 25–54 group lies above the other groups in the saved series, while the 65+ group is much lower. Following the lines also shows that groups change differently over time, rather than moving as a single national average.
 
-[Presentation PDF reading edition](final-presentation.pdf) · [English project and learning PDF](../../docs/Project_and_Learning_English.pdf) · [中文项目与学习收获 PDF](../../docs/Project_and_Learning_Chinese.pdf)
+![Employment ratios for five education groups and the advanced-degree minus bachelor’s-degree gap](images/education-gap.png)
 
-The presentation PDF uses the original wording and slide order, with reflowed text and selected chart overviews. Use the PPTX for the original layout and animation builds.
+The upper chart compares five education categories. The lower chart isolates the distance between the advanced-degree and bachelor’s-degree groups: **7.8 percentage points in 1979 and 0.3 points in 2015**. Showing the gap separately makes a small difference easier to see than comparing two nearby lines alone.
 
-## What the work does
+![Men’s and women’s employment ratios with their annual difference](images/gender-comparison.png)
 
-The age charts compare four groups: 16–24, 25–54, 55–64, and 65+. Education charts compare five categories and calculate the difference between advanced-degree and bachelor’s-degree groups. Gender tables support comparisons by age, education, and race/ethnicity. The presentation uses selected periods to discuss changes and possible historical context.
+The left chart compares the men’s and women’s series; the right shows their difference for each saved year. This lets the audience see both employment levels and the changing distance between them. The workbook also includes gender comparisons within age, education, and race/ethnicity categories.
 
-The workbook uses subgroup tables, line and bar charts, and cell formulas such as advanced-degree ratio minus bachelor’s-degree ratio and men’s ratio minus women’s ratio. The speaking notes develop the visual comparisons into a presentation, with bilingual explanations and speaker cues.
+## Technical work and learning
 
-## Workbook map
+The analysis organizes a 122-field source table into subgroup worksheets and uses line charts, bar charts, and subtraction formulas to compare ratios and percentage-point gaps. I practiced choosing a comparison, organizing the relevant series, and making a pattern visible without asking the audience to read the full table. The bilingual rehearsal notes connect those charts to spoken explanations, speaker transitions, and vocabulary practice.
 
-| Worksheet | Content | CSV |
-|---|---|---|
-| Sheet1 | Full table: 44 annual rows and 122 columns | [full-data.csv](data/full-data.csv) |
-| Sheet2 | Four age groups | [age-groups.csv](data/age-groups.csv) |
-| Sheet3 | Education categories and degree gap | [education.csv](data/education.csv) |
-| Sheet4 | Gender and age tables, with additional difference calculations in the workbook | [gender-and-age.csv](data/gender-and-age.csv) |
-| Sheet5 | Race/ethnicity categories | [race-ethnicity.csv](data/race-ethnicity.csv) |
-| Sheet6 | Gender within race/ethnicity categories | [gender-and-race.csv](data/gender-and-race.csv) |
-| Sheet7 | Gender within education categories | [gender-and-education.csv](data/gender-and-education.csv) |
+The original presentation credits **Shaoxuan Xiong as producer** and **Richard Feng as editor**. The previews above were redrawn from saved workbook values. They preserve the saved year labels; year alignment and some original sums of annual percentages require review, as documented in the [data notes](../../docs/DATA_NOTES.md). These charts describe patterns and do not establish their causes.
 
-CSV exports retain the worksheet’s original row order. Rates are stored as percentage values such as `60.3`, meaning 60.3%. A difference between rates is measured in percentage points.
+## Original work
 
-See [data notes](../../docs/DATA_NOTES.md) for year alignment, interpretation of summed percentages, and the distinction between descriptive patterns and causal explanations.
+[Excel analysis](employment-analysis.xlsx) · [22-slide PowerPoint](final-presentation.pptx) · [Presentation PDF reading edition](final-presentation.pdf) · [Bilingual speaking notes](speaker-notes.md) · [Original Word notes](speaker-notes.docx)
 
-## 中文简介
-
-这个期末项目从年龄、教育背景和性别三个角度比较美国就业人口比例。原件包含 7 个工作表、22 页演示文稿和中英双语排练稿。工作簿用于整理分类数据、制作图表和计算差值，演讲稿用于向听众解释观察到的变化及可能的历史背景。原始文件没有重写，新增 CSV 方便直接阅读和复核。
-
+[CSV data](data/) · [Detailed project explanation](PROJECT_EXPLAINED.md) · [Course learning reflection](../../docs/LEARNING.md)

@@ -1,12 +1,21 @@
 # Program Selection Recommendations
 
-A **five-slide presentation** recommending a program mix based on popularity, audience groups, and production costs. It discusses program types, Canterbury, Secrets of a Man, and the Family Business series.
+**English** | [简体中文](README.zh-CN.md) · [All projects](../../README.md)
 
-[Download the original presentation](presentation.pptx)
+This five-slide exercise uses **popularity, audience groups, and production costs** to recommend which programs to retain.
 
-The work practices turning visual comparisons into a recommendation: explaining which programs to retain and why. The underlying audience and cost workbook was not included with the saved materials, so the numerical rankings remain statements from the original presentation rather than independently reproduced results.
+## What the presentation shows
 
-## 中文简介
+![Program-type comparison cropped from slide 1 of the original presentation](images/program-types.png)
 
-这份 5 页演示文稿根据节目受欢迎程度、观众年龄和制作成本，提出节目保留建议，练习从图表比较形成推荐结论。现有材料没有对应的原始数据工作簿，因此保留原演示文稿，不补造数据或排名计算。
+The original presentation starts by comparing program types, recommending greater emphasis on comedy, science fiction, and reality shows. This turns a category-level visual comparison into a programming suggestion.
 
+![Original program cards for Canterbury, Family Business: Mixologists, and Secrets of a Man](images/program-candidates.png)
+
+The candidate cards bring together audience information, average viewers, cost per episode, and viewers per $1,000 of production cost. The presentation recommends **Canterbury, Secrets of a Man, and two Family Business series**. The reasoning weighs both reach and production cost, rather than choosing only the most popular program.
+
+## Technical work and learning
+
+The exercise practices reading rankings and audience segments, comparing popularity against cost, and organizing a recommendation into slides. The images above are crops of the original slides, not newly calculated rankings. The underlying audience-and-cost workbook was not included in the saved materials, so the original numerical claims have not been independently reproduced.
+
+[Original five-slide PowerPoint](presentation.pptx) · [Sources and credits](../../docs/SOURCES.md)

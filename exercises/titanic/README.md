@@ -1,15 +1,21 @@
 # Titanic Data Visualization
 
-An Excel exercise using **891 passenger records**. The saved workbook contains seven worksheets and five charts, covering survival counts, age and fare distributions, gender counts, and the passenger-class composition of survivors.
+**English** | [简体中文](README.zh-CN.md) · [All projects](../../README.md)
 
-- [Original workbook](analysis.xlsx)
-- [Passenger data as CSV](data/passengers.csv)
+This exercise turns **891 passenger records** into charts showing who was on board, how many survived, and how ages and fares were distributed.
 
-The workbook includes `SUM`, `AVERAGE`, `COUNTIF`, population standard deviation, frequency calculations, and a PivotTable. The CSV preserves blank ages and cabin values; no missing values were filled during repository preparation.
+## What the charts show
 
-The class percentages on Sheet6 describe **the distribution of passenger classes among survivors**. They are not each class’s probability of survival. See [data notes](../../docs/DATA_NOTES.md).
+![Survival counts, passenger sex counts, and classes among survivors](images/passenger-overview.png)
 
-## 中文简介
+Of the 891 passengers, **342 survived and 549 did not**. The middle chart compares male and female passenger counts. The right chart breaks the 342 survivors into first, second, and third class: **136, 87, and 119 people**. This shows the composition of the survivor group; it does not show each class’s survival rate.
 
-使用 891 条乘客记录练习描述统计和图表展示，包括生还人数、年龄与票价分布、性别构成，以及幸存者的舱位构成。原工作簿保留公式、数据透视表和图表，CSV 保留原来的缺失值。注意：幸存者中各舱位的占比，不等于各舱位乘客的生还率。
+![Histograms of passenger ages and fares](images/distributions.png)
 
+The age chart groups the **714 recorded ages** into intervals, making the concentration of younger adults easy to see. The fare chart shows many lower-priced fares and a small number of much higher values. Missing ages remain missing; they were not filled in to make this preview.
+
+## Technical work and learning
+
+The workbook uses `COUNTIF`, `SUM`, `AVERAGE`, population standard deviation, frequency calculations, and a PivotTable to summarize numeric and categorical fields. The exercise practices choosing between category counts and distribution charts, and checking the denominator when interpreting a percentage. The original workbook contains seven worksheets and five charts; these previews were redrawn from its saved data for browser viewing.
+
+[Original Excel workbook](analysis.xlsx) · [Passenger data (CSV)](data/passengers.csv) · [Data notes](../../docs/DATA_NOTES.md)

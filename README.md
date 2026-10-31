@@ -4,14 +4,6 @@
 
 Spreadsheet analysis and presentation work from **Inventor’s Lab: Data Visualization**, part of Cooper Union’s **STEM Saturdays** program in 2024. This collection includes a final project on U.S. employment patterns and four classroom exercises.
 
-## PDF editions
-
-[Project explanation and learning guide — English PDF](docs/Project_and_Learning_English.pdf) · [项目讲解与学习收获 — 中文 PDF](docs/Project_and_Learning_Chinese.pdf)
-
-[Final presentation — PDF reading edition](final-project/employment-analysis/final-presentation.pdf) · [Original PowerPoint](final-project/employment-analysis/final-presentation.pptx)
-
-The presentation PDF keeps the original wording and slide order, with reflowed text and selected chart overviews. The PowerPoint retains the original layout and animation builds.
-
 ## Final project: U.S. employment patterns
 
 The project lets an audience compare how employment patterns change across age groups, education levels, and gender. It turns **44 annual rows labelled 1979–2022** into a seven-worksheet Excel analysis, a **22-slide presentation**, and **bilingual speaking notes**. Viewers can follow overall trends, selected periods, and differences between groups without reading the original table row by row.
@@ -20,7 +12,7 @@ The age section compares four age groups. The education section compares five ca
 
 The original presentation credits **Shaoxuan Xiong as producer** and **Richard Feng as editor**. The speaking notes retain the speakers’ section labels and rehearsal annotations.
 
-[Explore the final project](final-project/employment-analysis) · [Download the presentation](final-project/employment-analysis/final-presentation.pptx) · [Open the workbook](final-project/employment-analysis/employment-analysis.xlsx) · [Read the speaking notes](final-project/employment-analysis/speaker-notes.md)
+[View charts and project explanation](final-project/employment-analysis) · [Download the presentation](final-project/employment-analysis/final-presentation.pptx) · [Open the workbook](final-project/employment-analysis/employment-analysis.xlsx) · [Read the speaking notes](final-project/employment-analysis/speaker-notes.md)
 
 ![Education-group comparison from slide 12 of the original final presentation](assets/employment-preview.png)
 
@@ -42,10 +34,10 @@ The final project connected those spreadsheet skills with communication. Bilingu
 
 | Exercise | What it contains | Open |
 |---|---|---|
-| Titanic | Passenger summaries, age and fare distributions, gender counts, and the class composition of survivors. | [Workbook and data](exercises/titanic) |
-| Penny mass | Coin measurements, summary statistics, frequency counts, and normal-density calculations. | [Workbook and data](exercises/penny-mass) |
-| Chart comparison | Two chart views of settlement time and its component stages, including a supplied forecast row. | [Workbook and data](exercises/chart-comparison) |
-| Program selection | A five-slide recommendation comparing program popularity, audience groups, and production costs. | [Presentation](exercises/program-selection) |
+| Titanic | Passenger summaries, age and fare distributions, gender counts, and the class composition of survivors. | [Charts and explanation](exercises/titanic) |
+| Penny mass | Coin measurements, summary statistics, frequency counts, and normal-density calculations. | [Charts and explanation](exercises/penny-mass) |
+| Chart comparison | Two chart views of settlement time and its component stages, including a supplied forecast row. | [Charts and explanation](exercises/chart-comparison) |
+| Program selection | A five-slide recommendation comparing program popularity, audience groups, and production costs. | [Charts and explanation](exercises/program-selection) |
 
 ## Using this repository
 
