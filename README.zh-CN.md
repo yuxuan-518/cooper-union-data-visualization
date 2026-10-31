@@ -18,7 +18,7 @@
 
 年龄部分比较四个年龄段；学历部分比较五类教育背景，并计算高级学位与学士学位的差值；性别部分比较男女数据，也进一步查看不同年龄群体中的差距。折线图呈现时间变化，柱形图用于群体比较，差值图则把两组数据之间的距离单独展示出来。
 
-原演示文稿署名为 **Shaoxuan Xiong（制作）**和 **Richard Feng（编辑）**。讲稿保留了两位讲者的分工标记、排练提示和词汇注释。
+原演示文稿署名为 **Shaoxuan Xiong（制作）** 和 **Richard Feng（编辑）**。讲稿保留了两位讲者的分工标记、排练提示和词汇注释。
 
 [查看期末项目](final-project/employment-analysis) · [下载演示文稿](final-project/employment-analysis/final-presentation.pptx) · [查看 Excel 工作簿](final-project/employment-analysis/employment-analysis.xlsx) · [直接阅读双语讲稿](final-project/employment-analysis/speaker-notes.md)
 
