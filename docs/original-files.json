@@ -1,0 +1,44 @@
+[
+  {
+    "original_filename": "employ could change.xlsx",
+    "repository_path": "final-project/employment-analysis/employment-analysis.xlsx",
+    "bytes": 118198,
+    "sha256": "c982c05ccc2ab9725075f1afa0c152f3f3dc2d8bbd51c94673904e9006a74c73"
+  },
+  {
+    "original_filename": "PPT employment analyse.pptx",
+    "repository_path": "final-project/employment-analysis/final-presentation.pptx",
+    "bytes": 8937527,
+    "sha256": "69e26fbf914d1c5dab2f986d1e3a88a667bd02136d5e17842ad39c35a9eca33d"
+  },
+  {
+    "original_filename": "稿子.docx",
+    "repository_path": "final-project/employment-analysis/speaker-notes.docx",
+    "bytes": 43619,
+    "sha256": "2a41567e388d0532934fa8e3f140ca52fddf89e42e986d38ad28a54f2af7c56a"
+  },
+  {
+    "original_filename": "Titanic Data Visualization Analysis.xlsx",
+    "repository_path": "exercises/titanic/analysis.xlsx",
+    "bytes": 140567,
+    "sha256": "da66531594c3b4a8f9d0413ee2647b5981ab7a118192b14da402abdee0969c6e"
+  },
+  {
+    "original_filename": "Activity_Katz_Penny_Mass_Data_Set (3).xlsx",
+    "repository_path": "exercises/penny-mass/analysis.xlsx",
+    "bytes": 92048,
+    "sha256": "2d55e0589f6e8e7c19d37cb9a2ad4ded63fc31792c49e81a3d2b7ada0f59e419"
+  },
+  {
+    "original_filename": "预测数据.xlsx",
+    "repository_path": "exercises/chart-comparison/settlement-time.xlsx",
+    "bytes": 20500,
+    "sha256": "e382af4becbcefabc45306bb404f09f074cb7865e47cc4b9f4e7ca43b5fbc03d"
+  },
+  {
+    "original_filename": "演示文稿.pptx",
+    "repository_path": "exercises/program-selection/presentation.pptx",
+    "bytes": 359254,
+    "sha256": "cf262823a35f6d65994ca065d7fe91cdd2a522c7a9ffd8d97bc5967c148b4f0b"
+  }
+]
